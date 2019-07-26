@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(darknet_actions_msgs)
+project(darknet_action_msgs)
 
 find_package(catkin REQUIRED COMPONENTS
   roscpp
